@@ -1,2 +1,2 @@
-# CBKDL Informatics Wiki
+[https://github.com/ohsu-comp-bio/cbkdl/wiki](# CBKDL Informatics Wiki)
 
